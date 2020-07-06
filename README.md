@@ -57,3 +57,6 @@ Actions > Cloud189Checkin > build
 
 此后，将会在每天10:00和22:00各签到一次  
 若有需求，可以在[.github/workflows/run.yml]中自行修改
+
+编辑记录：
+2020/07/06
